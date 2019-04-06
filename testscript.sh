@@ -2,5 +2,5 @@
 echo "this script is from github"
 NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
-echo "yowzer yowzer3"
+echo "yowzer yowzer4"
 echo "this was run automagically"
